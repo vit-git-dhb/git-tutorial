@@ -1,1 +1,3 @@
-<!-- here goes body enclosed into <body> tag -->
+<body>
+Here is a body.
+</body>
