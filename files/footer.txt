@@ -1,0 +1,3 @@
+<footer>
+Simple footer
+</footer>
