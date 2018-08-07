@@ -1,3 +1,3 @@
 <body>
-Here is a body.
+<h1>Here is a body.</h1>
 </body>
